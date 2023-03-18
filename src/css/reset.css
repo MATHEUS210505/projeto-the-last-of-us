@@ -1,0 +1,13 @@
+*{  /* Quando styliza o * vc ta estilizando todo o codigo tirando tudo aquilo que o navegador ja estiliza */
+    margin: 0;  /* Margem da borda*/
+    padding: 0; /*Espaçamento da borda*/ 
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
